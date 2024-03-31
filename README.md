@@ -12,7 +12,8 @@ MySQL,
 MongoDB,
 Youtube API.
 
-Required Python libraries:
+Required Python libraries: 
+
 googleapiclient.discovery,
 pymongo,
 mysql.connector,
@@ -20,6 +21,7 @@ pandas,
 streamlit.
 
 WorkFlow:
+
 Extraction of YouTube data.
 Storage of data in MongoDB. 
 Transfering data from MongoDB to MySQL database.
