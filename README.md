@@ -5,12 +5,15 @@ Overview:
 
 This project is designed to extract data from YouTube using a provided channel ID, store the data in MongoDB , and provide options to migrate the data to a MySQL database for further analysis. The project utilises Python, various libraries, and Streamlit to create a user-friendly web page.
 
+
+
 Prerequisites:
 
 Python
 MySQL,
 MongoDB,
 Youtube API.
+
 
 Required Python libraries: 
 
@@ -19,6 +22,7 @@ pymongo,
 mysql.connector,
 pandas,
 streamlit.
+
 
 WorkFlow:
 
